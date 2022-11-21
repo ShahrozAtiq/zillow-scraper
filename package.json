@@ -1,0 +1,11 @@
+{
+    "name": "zillow-scraper",
+    "version": "1.0.0",
+    "description": "A Node.js script to search for a keyword on Zillow and scrape all the information of the results and store them in a CSV file.",
+    "main": "index.js",
+    "dependencies": {
+      "csv-write-stream": "^2.0.0",
+      "puppeteer": "^12.0.0"
+    }
+  }
+  
